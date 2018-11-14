@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BibliotecaQuejas", "BibliotecaQuejas\BibliotecaQuejas.csproj", "{1AFFF531-20BC-44DA-B18A-33AA17471AEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1AFFF531-20BC-44DA-B18A-33AA17471AEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AFFF531-20BC-44DA-B18A-33AA17471AEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AFFF531-20BC-44DA-B18A-33AA17471AEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AFFF531-20BC-44DA-B18A-33AA17471AEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04BAA233-76B1-49C1-BC71-E316609531A5}
+	EndGlobalSection
+EndGlobal

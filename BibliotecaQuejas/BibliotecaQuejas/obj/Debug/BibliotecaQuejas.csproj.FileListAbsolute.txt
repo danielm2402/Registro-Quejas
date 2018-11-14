@@ -1,0 +1,16 @@
+C:\Users\Daniel\Desktop\BDVivi\BibliotecaQuejas\BibliotecaQuejas\bin\Debug\BibliotecaQuejas.dll.config
+C:\Users\Daniel\Desktop\BDVivi\BibliotecaQuejas\BibliotecaQuejas\bin\Debug\BibliotecaQuejas.dll
+C:\Users\Daniel\Desktop\BDVivi\BibliotecaQuejas\BibliotecaQuejas\bin\Debug\BibliotecaQuejas.pdb
+C:\Users\Daniel\Desktop\BDVivi\BibliotecaQuejas\BibliotecaQuejas\bin\Debug\EntityFramework.dll
+C:\Users\Daniel\Desktop\BDVivi\BibliotecaQuejas\BibliotecaQuejas\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Daniel\Desktop\BDVivi\BibliotecaQuejas\BibliotecaQuejas\bin\Debug\System.Data.SQLite.dll
+C:\Users\Daniel\Desktop\BDVivi\BibliotecaQuejas\BibliotecaQuejas\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Daniel\Desktop\BDVivi\BibliotecaQuejas\BibliotecaQuejas\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Daniel\Desktop\BDVivi\BibliotecaQuejas\BibliotecaQuejas\bin\Debug\EntityFramework.xml
+C:\Users\Daniel\Desktop\BDVivi\BibliotecaQuejas\BibliotecaQuejas\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Daniel\Desktop\BDVivi\BibliotecaQuejas\BibliotecaQuejas\bin\Debug\System.Data.SQLite.xml
+C:\Users\Daniel\Desktop\BDVivi\BibliotecaQuejas\BibliotecaQuejas\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Daniel\Desktop\BDVivi\BibliotecaQuejas\BibliotecaQuejas\obj\Debug\BibliotecaQuejas.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\BDVivi\BibliotecaQuejas\BibliotecaQuejas\obj\Debug\BibliotecaQuejas.csproj.CopyComplete
+C:\Users\Daniel\Desktop\BDVivi\BibliotecaQuejas\BibliotecaQuejas\obj\Debug\BibliotecaQuejas.dll
+C:\Users\Daniel\Desktop\BDVivi\BibliotecaQuejas\BibliotecaQuejas\obj\Debug\BibliotecaQuejas.pdb
